@@ -1,0 +1,13 @@
+tipo:Gas natural:5000:3000.0
+tipo:ACPM:9000:9000.0
+tipo:EXTRA:20000:30000.0
+tipo:Corriente:15000:50000.0
+surtidor:Monica:Gas natural:0.0:ACPM:0.0:EXTRA:0.0:Corriente:0.0
+surtidor:Valeria:Gas natural:0.0:ACPM:0.0:EXTRA:0.0:Corriente:0.0
+surtidor:Juan :Gas natural:0.0:ACPM:0.0:EXTRA:0.0:Corriente:0.0
+surtidor:Nicolas:Gas natural:0.0:ACPM:0.0:EXTRA:0.0:Corriente:0.0
+empleado:Mateo:0
+empleado:Juan :0
+empleado:Valeria:0
+empleado:Nicolas:0
+empleado:Monica:0
